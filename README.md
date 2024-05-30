@@ -144,6 +144,12 @@ Para executar este projeto localmente, siga estas etapas:
 - `npm test`: Executa testes.
 - `npm eject`: Ejecta a configuração do Create React App.
 
+
+## Design
+
+Você pode encontrar o design do jogo no Figma [aqui](https://www.figma.com/design/OAvs5QHH2ASMmK4bgYy8b3/Jogo-Advinha-n%C3%BAmeros---React?node-id=10-2&t=6QAiGF9lRYD3APGn-1).
+
+
 ## Contribuindo
 
 1. Faça um fork do repositório.
@@ -151,6 +157,7 @@ Para executar este projeto localmente, siga estas etapas:
 3. Faça commit das suas alterações: `git commit -m 'Adicione alguma feature'`
 4. Faça push para a branch: `git push origin feature/sua-feature`
 5. Abra um pull request.
+
 
 
 Desenvolvido por [Hunterland](https://linkedin.com/in/alan-barroncas) 🚀
