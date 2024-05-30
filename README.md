@@ -103,7 +103,7 @@ Para executar este projeto localmente, siga estas etapas:
    npm start
    ```
 
-4. Abra seu navegador e acesse `http://localhost:3000`.
+4. Abra seu navegador e acesse `http://localhost:5173`.
 
 ## Componentes
 
