@@ -1,0 +1,7 @@
+.header {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: var(--title-game);
+  margin: 20px 0;
+}

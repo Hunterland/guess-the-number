@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.Badtitle {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: var(--title-bad);
+  margin: 20px 0;
+}
+
+.personBad {
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.guesses {
+  margin-bottom: 30px;
+}
+
+.restartButton {
+  font-family: "Roboto Mono", monospace;
+  background-color: var(--btn-primary);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.restartButton:hover {
+  background-color: var(--btn-secondary);
+}

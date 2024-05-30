@@ -1,0 +1,51 @@
+:root {
+  
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+   
+  /* cores variáveis */
+
+  /* Body */
+  --linear:linear-gradient(90deg, rgba(240,241,242,1) 0%, rgba(255,255,255,1) 
+  35%, rgba(249,249,249,1) 75%, rgba(255,255,255,1) 100%);
+
+  /* Títulos */
+  --title-start: #2B3A67;
+  --title-game: #2B3A67;
+  --title-success: #6FCF97;  
+  --title-bad: #FF2333; 
+  
+  /* Parágrafos */
+  --black: #000000;
+  --dark-blue: #2B3A67;
+
+  /* Botões */
+  --btn-primary:#17A2B8;
+  --btn-secondary: #FFC107;
+
+  /* Rodapé */
+  --footer: #263238;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 90vh;
+  background-color: var(--linear);
+}
+

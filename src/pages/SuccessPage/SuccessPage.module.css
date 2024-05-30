@@ -1,0 +1,37 @@
+.successContainer {
+  text-align: center;
+  padding: 20px;
+}
+
+.congratulationsMessage {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: var(--title-success);
+  margin: 20px 0;
+}
+
+.SuccessImage {
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.guesses {
+  margin-bottom: 30px;
+}
+
+.restartButton {
+  background-color: var(--btn-primary);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.restartButton:hover {
+  background-color: var(--btn-secondary);
+}
