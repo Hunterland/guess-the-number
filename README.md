@@ -105,6 +105,8 @@ Para executar este projeto localmente, siga estas etapas:
 
 4. Abra seu navegador e acesse `http://localhost:5173`.
 
+   
+
 ## Componentes
 
 ### `StartPage`
@@ -150,3 +152,5 @@ Para executar este projeto localmente, siga estas etapas:
 4. Faça push para a branch: `git push origin feature/sua-feature`
 5. Abra um pull request.
 
+
+Desenvolvido por [Hunterland](https://linkedin.com/in/alan-barroncas) 🚀
