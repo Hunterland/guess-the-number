@@ -1,5 +1,7 @@
 # Jogo Adivinhe o Número
 
+![Posts App Demo](/public/Newhome.gif)
+
 ## Descrição
 "Guess the Number" é um jogo simples e divertido baseado em React, onde os usuários tentam adivinhar um número gerado aleatoriamente entre 1 e 100 dentro de 10 tentativas. O aplicativo fornece feedback sobre se o número adivinhado é maior ou menor que o número alvo.
 
