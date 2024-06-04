@@ -162,4 +162,4 @@ Você pode encontrar o design do jogo no Figma [aqui](https://www.figma.com/desi
 
 
 
-Desenvolvido por [Alan Barroncas](https://linkedin.com/in/alan-barroncas) 🚀
+Desenvolvido por [Alan Barroncas](https://linkedin.com/in/alan-barroncas95) 🚀
